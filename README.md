@@ -12,3 +12,9 @@
 
 #### `react-native run-android`
 
+## Test apk
+#### http://bit.ly/test-TODOapp
+
+## Download Apk
+#### http://bit.ly/download-TODOapp
+
